@@ -19,6 +19,6 @@ public class CreateModelRequest {
 
 
     @NotNull
-    @NotBlank
-    private int brand_id;
+
+    private int brandId;
 }

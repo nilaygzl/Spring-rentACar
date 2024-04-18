@@ -1,6 +1,6 @@
 package kodlama.io.rentACar.webApi.Controllers;
 
-import io.swagger.v3.oas.annotations.parameters.RequestBody;
+//import io.swagger.v3.oas.annotations.parameters.RequestBody;
 import jakarta.validation.Valid;
 import kodlama.io.rentACar.business.DTO.requests.CreateModelRequest;
 import kodlama.io.rentACar.business.DTO.responses.GetAllModelsResponse;
